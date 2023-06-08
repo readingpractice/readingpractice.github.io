@@ -251,9 +251,12 @@ nav {
     font-size: 28px;
 	line-height: 2;
     color: $darkGray;
-    text-align: left;
     letter-spacing: 1px;
-
+    font-weight: bold;
+	cursor: pointer;
+  		&:hover, &:active {
+    color: $white;
+}
     @include mobile {
       margin: 0px 5px;
       padding: 5px auto;
