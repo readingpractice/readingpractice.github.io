@@ -11,13 +11,13 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
-
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+	<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
-
-    {% include sidebar.html %}
 
     <div class="wrapper-masthead">
 
@@ -26,13 +26,21 @@
       </div>
 
       <header class="masthead clearfix">
-        <div class="container">
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
-          </div>
         </div>
       </header>
+      
+      <div class="nav-container">
+      	<header>
+      		<nav>
+      		<a href="{{ site.baseurl }}/">Home</a><br>
+      		<a href="{{ site.baseurl }}/manuscripts">Manuscripts</a><br>
+      		<a href="{{ site.baseurl }}/print">Printed Books</a><br>
+      		</nav>
+      	</header>
+      </div>
 
     </div>
 
@@ -42,17 +50,8 @@
       </div>
     </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
 
     {% include analytics.html %}
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script src='{{ site.baseurl}}/script.js'></script>
+    
   </body>
 </html>

@@ -15,9 +15,7 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$Garamond: 'EB Garamond', serif;
 
 // Mobile breakpoints
 @mixin mobile {
@@ -25,3 +23,5 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+@import @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap');
