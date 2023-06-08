@@ -25,22 +25,30 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background-image: url("https://iiif.wellcomecollection.org/image/b19248052_0073.jp2/full/full/0/default.jpg");
+	background-color: $white;
+  font-family: 'EB Garamond', serif;
+  line-height: 1.1;
   color: $darkGray;
   font-weight: 300;
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 900px;
-  padding: 0 10px;
-  width: 100%;
+  margin: 200px 20px 0px 350px;
+  max-width: 1100px;
+  padding: 0px 220px 50px 0px;
+  width: 85%;
+  
+  @include mobile {
+  margin: 175px auto;
+  padding: 20px 20px;
+  width: 85%;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: 'EB Garamond' serif;
+  color: $darkGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -53,31 +61,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 36px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 32px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 28px;
 }
 
 h4 {
-  font-size: 18px;
-  color: $gray;
+  font-size: 24px;
 }
 
 p {
-  margin: 15px 0;
+  font-size: 24px;
 }
 
 a {
-  color: $blue;
+  color: $darkGray;
   text-decoration: none;
   font-weight: bold;
 	cursor: pointer;
@@ -180,7 +187,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -204,6 +210,7 @@ img {
 
 .site-info {
   float: right;
+  margin: 0px 70px 0px 0px;
 
   @include mobile {
     float: none;
@@ -214,22 +221,47 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-size: 32px;
+  font-size: 56px;
   letter-spacing: 1px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 18px;
+  margin: -15px 0 0 0;
+  color: $white;
+  font-size: 24px;
   font-weight: lighter;
 
   @include mobile {
     margin: 3px 0;
   }
+}
+
+.nav-container {
+	width: 300px;
+	float: left;
+	position: fixed;
+	margin: 150px 50px;
+	}
+	
+nav {
+	
+	a {
+    font-size: 28px;
+	line-height: 2;
+    color: $darkGray;
+    text-align: left;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0px 5px;
+      padding: 5px auto;
+      font-weight: 300;
+      text-align: center;
+      font-size: 14px;
+      }
+    }
 }
 
 
@@ -283,4 +315,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-@import "sidebar";
