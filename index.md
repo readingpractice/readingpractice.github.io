@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About this Site
+## Digital Appendices
 
 This site will host the bibliographic data collected
 for my book ___Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print,___ forthcoming from [The University of Chicago Press](https://press.uchicago.edu/index.html) in 

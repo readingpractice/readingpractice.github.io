@@ -29,7 +29,7 @@ body {
 	background-color: $white;
   font-family: 'EB Garamond', serif;
   line-height: 1.1;
-  color: $darkGray;
+  color: $darkerGray;
   font-weight: 300;
 }
 
@@ -48,7 +48,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond' serif;
-  color: $darkGray;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -213,9 +213,9 @@ img {
   margin: 0px 70px 0px 0px;
 
   @include mobile {
-    float: none;
+	margin: 40px 0px 0px 0px;
+	float: none;
     display: block;
-    margin: 0 auto;
   }
 }
 
@@ -225,6 +225,10 @@ img {
   cursor: pointer;
   font-size: 56px;
   letter-spacing: 1px;
+  
+  @include mobile {
+  font-size: 36px;
+  }
 }
 
 .site-description {
@@ -234,15 +238,27 @@ img {
   font-weight: lighter;
 
   @include mobile {
+    font-size: 20px;
     margin: 3px 0;
   }
 }
 
 .nav-container {
-	width: 300px;
+	width: 200px;
+	display: table;
+	padding: 30px 30px;
 	float: left;
 	position: fixed;
-	margin: 100px 50px;
+	margin: 80px 25px;
+	z-index: 10;
+	
+	@include mobile {
+	margin: -220px 0px 0px 0px;
+	width: 100%;
+	background-color: $black;
+	display: inline-block;
+	text-align: center;
+	}
 	}
 	
 nav {
@@ -250,7 +266,7 @@ nav {
 	a {
     font-size: 30px;
 	line-height: 2;
-    color: $darkGray;
+    color: $darkerGray;
     letter-spacing: 1px;
     font-weight: bold;
 	cursor: pointer;
@@ -261,7 +277,8 @@ nav {
       margin: 0px 5px;
       padding: 5px auto;
       font-weight: 300;
-      font-size: 14px;
+      font-size: 18px;
+      color: $white;
       }
     }
 }
@@ -312,6 +329,10 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+.image-credit {
+	font-size: 12px;
+	}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
