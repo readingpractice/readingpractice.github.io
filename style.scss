@@ -28,7 +28,7 @@ body {
 	background-image: url("https://iiif.wellcomecollection.org/image/b19248052_0073.jp2/full/full/0/default.jpg");
 	background-color: $white;
   font-family: 'EB Garamond', serif;
-  line-height: 1.1;
+  line-height: 1.2;
   color: $darkerGray;
   font-weight: 300;
 }
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.4;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -213,7 +213,7 @@ img {
   margin: 0px 70px 0px 0px;
 
   @include mobile {
-	margin: 40px 0px 0px 0px;
+	margin: 50px 0px 0px 0px;
 	float: none;
     display: block;
   }
@@ -232,7 +232,7 @@ img {
 }
 
 .site-description {
-  margin: -15px 0 0 0;
+  margin: -12px 0 0 0;
   color: $white;
   font-size: 24px;
   font-weight: lighter;
@@ -254,6 +254,7 @@ img {
 	
 	@include mobile {
 	margin: -220px 0px 0px 0px;
+	padding: 15px auto;
 	width: 100%;
 	background-color: $black;
 	display: inline-block;
@@ -326,7 +327,7 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 40px 0;
   text-align: center;
 }
 
