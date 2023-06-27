@@ -2,19 +2,16 @@
 layout: default
 ---
 
-## Welcome, readers, of *Reading Practice*
+# Welcome, Readers
 
-This site is intended to host the bibliographic data that scaffolds the narrative in *Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print,* 
-a history of English readers and the hundreds of books of medicine, science, agriculture, and
-astrology they owned and read between 1400 and 1600, forthcoming from [The University of Chicago Press](https://press.uchicago.edu/index.html) in 
-Summer 2024. 
-<br>
-<br>
-Use the menu at the left to navigate the [Manuscripts Appendices]({{ site.baseurl }}/manuscripts), 
-detailing the contents, format, and reader marks of the 182 fifteenth-century manuscripts of English medicine and 
-science that I analyzed for the book. Or visit the [Print Appendices]({{ site.baseurl }}/print) 
-to view network visualizations, graphs, and Gannt plots created from a database of more than 500 printed
-editions of practical books, many of them containing texts drawn from manuscript sources.
+This site hosts bibliographical, codicological, and paleographical data collected as research for the book
+_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_, forthcoming from 
+[The University of Chicago Press](https://press.uchicago.edu/index.html) in Summer 2024. These appendices include
+data on the formats, contents, and reader marks of 182 fifteenth-century English vernacular manuscripts, accessible on
+visit the [Manuscript Appendices]({{ site.baseurl }}/manuscripts) page, as well as publication data
+for over 475+ editions of early printed medical recipe collections, almanacs, prognostications, surgical treatises,
+uroscopies, herbals, and books of secrets published between 1485 and 1600, accessible on the
+[Print Appendices]({{ site.baseurl }}/print) page.
 
 ## About *Reading Practice*
 _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ tells the 
@@ -62,17 +59,7 @@ in diagrams that offered a glimpse of the interior of the human body, or in simp
 that altered the shape of the universe—English readers were primed to train their analytical acumen on 
 those practical books, too. In the everyday practices of reading, editing, amending, and even censoring 
 practical books, ordinary English people grew into capable and confident judges of natural knowledge.
-<br>
-<br>
-Over the course of ten years in archives and libraries in the United Kingdom
-and United States, I have viewed over 300 fifteenth-century vernacular, English medical and scientific
-manuscripts, over 180 of which became the primary sources for my book. In addition to in-person
-manuscript research, I have also combed through the online [_English Short Title Catalogue,_](http://estc.bl.uk/)
-to trace how vernacular medicine and science moved from manuscript into print. I have compiled a database
-of over 500 early printed almanacs, prognostications, medical recipe books, husbandry manuals,
-herbals, urinaries, anatomies, dietaries, and books of secrets. I have made all that research available
-here, in the hopes that other scholars may find it useful for understanding the circulation and
-adoption of natural knowledge in England just prior to the so-called Scientific Revolution.
+
 <br>
 <br>
 Thanks for visiting, and happy reading!

@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Print Appendices
+permalink: /print/
 ---
 
-**Appendix A:** List of Printed Practical Books by STC Number
+The following Digital Appendices present data on practical books published in England between
+1485 and 1600. These books include medical recipe collections, herbals, uroscopy treatises,
+surgical tracts, manuals on animal husbandry, horsemanship, veterinary medicine, agriculture, 
+plague treatises, dietaries, books of secrets, and books on distillation. 
 
-**Appendix B:** [Network Analysis]({{ site.baseurl }}/networkanalysis/) of London Printer Before 1560
-
-**Appendix C:** Most Popular Printed Practical Books, by Genre
-
-**Appendix D:** Dates of Published Editions for Most Popular Practical Books
+#### [Print Appendix A: Practical Books Published in England, 1485–1600]({{ site.baseurl }}/print-appendix-a/)
+#### [Print Appendix B: Network Analysis of Printers and Editions of Practical Books]({{ site.baseurl }}/print-appendix-b/)
+#### [Print Appendix C: Data Visualizations]({{ site.baseurl }}/print-appendix-c/)
