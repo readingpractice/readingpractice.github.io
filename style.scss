@@ -26,24 +26,24 @@ html {
 
 body {
 	background-image: url("https://iiif.wellcomecollection.org/image/b19248052_0073.jp2/full/full/0/default.jpg");
+	background-position-x: -220px;
 	background-repeat: no-repeat;
 	background-color: $black;
   font-family: 'EB Garamond', serif;
   line-height: 1.2;
   color: $darkerGray;
-  font-weight: 300;
 }
 
 .container {
-  margin: 200px 20px 0px 350px;
-  max-width: 1100px;
-  padding: 0px 220px 50px 0px;
-  width: 85%;
+  position: relative;
+  margin: 185px 150px 50px 160px;
+  padding: 0px 50px 50px 50px;
+  width: 80%;
   
   @include mobile {
-  margin: 175px auto;
-  padding: 20px 20px;
-  width: 85%;
+  margin: 185px auto;
+  padding: 5px 25px;
+  width: 82%;
   }
 }
 
@@ -81,7 +81,7 @@ h4 {
 }
 
 p {
-  font-size: 24px;
+  font-size: 22px;
   
 	@include mobile {
 	font-size: 20px;
@@ -94,7 +94,7 @@ a {
   font-weight: bold;
 	cursor: pointer;
   &:hover, &:active {
-    color: $white;
+    color: $gray;
   }
 }
 
@@ -218,7 +218,7 @@ img {
   margin: 0px 70px 0px 0px;
 
   @include mobile {
-	margin: 35px 0px 0px 0px;
+	margin: 30px 0px 0px 0px;
 	float: none;
     display: block;
   }
@@ -346,17 +346,11 @@ th {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
-}
 
 footer {
-  padding: 40px 0;
   text-align: center;
   background-color: $black;
+  height: 150px;
   color: $white;
   a {
   color: $white;
@@ -364,10 +358,12 @@ footer {
 }
 
 .image-credit {
-	font-size: 12px;
+	padding: 50px 50px;
+	font-size: 13px;
+	float: center;
 	
 	@include mobile {
-	font-size: 8px;
+	font-size: 11px;
 	}
 	}
 
