@@ -1,12 +1,37 @@
 ---
 layout: default
 ---
-
+<div class="navigation">
+<div class="dropdown">
+  <span>MENU</span>
+  <div class="dropdown-content">
+  	<a class="dropdown-nav-item" href="{{ site.baseurl }}/">Home</a>
+    <a class="dropdown-nav-item" href="{{ site.baseurl }}/manuscripts">Manuscript Appendices</a>
+    <a class="dropdown-nav-item" href="{{ site.baseurl }}/print">Print Appendices</a>
+    <a class="dropdown-nav-item" href="{{ site.baseurl }}/author">About the Author</a>
+    <a class="dropdown-nav-item" href="{{ site.baseurl }}/book">About the Book</a>
+  </div>
+</div>
+</div>
+	
+      <header class="masthead clearfix">
+            <div class="wrapper-masthead">
+            <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+            <p class="site-byline">{{ site.byline }}</p>
+        </div>
+      </div>
+      <img class="banner" src="{{ site.baseurl }}/images/reading-practice-banner.jpeg">
+      </header>
+    
 <article class="page">
 
-  <h1>{{ page.title }}</h1>
+  <h1 style="text-align: center;">{{ page.title }}</h1>
 
+<div class="container">
   <div class="entry">
     {{ content }}
+  </div>
   </div>
 </article>

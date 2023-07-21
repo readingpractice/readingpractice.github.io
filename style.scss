@@ -13,11 +13,6 @@
 /* BASE RULES */
 /**************/
 
-.wrap {
-  position: relative;
-  width: 100%;
-}
-
 html {
   font-size: 100%;
   position: relative;
@@ -25,31 +20,22 @@ html {
 }
 
 body {
-	background-image: url("https://iiif.wellcomecollection.org/image/b19248052_0073.jp2/full/full/0/default.jpg");
-	background-position-x: -220px;
-	background-repeat: no-repeat;
-	background-color: $black;
+  background-color: $black;
   font-family: 'EB Garamond', serif;
   line-height: 1.2;
-  color: $darkerGray;
+  color: $white;
 }
 
 .container {
   position: relative;
-  margin: 185px 150px 50px 160px;
-  padding: 0px 50px 50px 50px;
+  padding: 30px 30px;
+  margin: 0px auto;
   width: 80%;
-  
-  @include mobile {
-  margin: 185px auto;
-  padding: 5px 25px;
-  width: 82%;
   }
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond' serif;
-  color: $darkerGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.4;
@@ -84,17 +70,17 @@ p {
   font-size: 22px;
   
 	@include mobile {
-	font-size: 20px;
+	font-size: 18px;
+	line-height: 1.4;
 	}
 }
 
 a {
-  color: $darkerGray;
-  text-decoration: none;
-  font-weight: bold;
+  color: $white;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
-    color: $gray;
+    color: $lightGray;
   }
 }
 
@@ -183,44 +169,86 @@ img {
 /*********************/
 
 //
+// .dropdown-nav
+//
+.navigation {
+	float: right;
+	margin: 7px 85px 10px 0px;
+	
+	@include mobile {
+	float: center;
+	margin: 10px 20px 0px 0px;
+	}
+	}
+	
+.dropdown {
+  position: relative;
+  display: inline-block;
+  font-size: 28px;
+  font-weight: bold;
+  color: $white;
+  padding: 8px 8px;
+  
+  @include mobile {
+  font-size: 20px;}
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: $black;
+  min-width: 100px;
+  padding: 12px 16px;
+  z-index: 1;
+  color: $white;
+  text-align: right;
+  margin: 0px 0px 0px -40px;
+  overflow: auto;
+  
+  a {
+  color: $white;
+  text-decoration: none;
+  }
+}
+
+.dropdown-nav-item {
+	display: block;
+	font-size: 24px;
+	color: $black;
+	margin: 15px auto;
+	font-weight: 300;
+	
+	@include mobile {
+	font-size: 18px;}
+	}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-nav-item.active,
+a.dropdown-nav-item:hover,
+a.dropwdown-nav-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
+//
 // .masthead
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  width: 100%;
 }
 
-.masthead {
-  padding: 20px 0;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.banner-container {
-  margin: 0px auto;
-  width: 100%
-}
-
-.site-banner {
-  float: none;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
 
 .site-info {
-  float: right;
-  margin: 0px 70px 0px 0px;
-
+  float: left;
+  margin: 90px 0px 0px 90px;
+  
   @include mobile {
-	margin: 30px 0px 0px 0px;
-	float: none;
-    display: block;
+  	margin: 40px 0px 0px 30px;
   }
 }
 
@@ -230,6 +258,10 @@ img {
   cursor: pointer;
   font-size: 56px;
   letter-spacing: 1px;
+  
+  a {
+  text-decoration: none;
+  }
   
   @include mobile {
   font-size: 36px;
@@ -243,34 +275,118 @@ img {
   font-weight: lighter;
 
   @include mobile {
-    font-size: 20px;
-    margin: 3px 0;
+    font-size: 18px;
+    margin: 2px 0px 0px 0px;
   }
 }
 
 .site-byline {
 	color: $white;
 	font-style: italic;
-	font-size: 20px;
+	font-size: 28px;
 	font-weight: lighter;
 	
 	@include mobile {
-	font-size: 16px;
-	text-align: center;
+	font-size: 18px;
 	}
+}
+
+.banner {
+	position: relative;
+	margin: -250px 0px 0px 0px;
+	min-width: 900px;
+	z-index: -10;
+	border-bottom: solid 1px $white;
+	
+	@include mobile {
+	margin: -150px 0px 0px 0px;
+	}
+	}
+//
+// .index
+//
+
+
+.index-container {
+	margin: 200px auto;
+	width: 600px;
+	padding: 0px 30px;
+	text-align: center;
+	
+	@include mobile {
+	margin: 140px auto;
+	width: 70%;
+	}
+	}
+	
+.index-title {
+	font-size: 65px;
+	position: relative;
+	font-weight: 900;
+	color: $white;
+	
+	@include mobile {
+	font-size: 46px;
+	}
+	}
+	
+.index-subtitle {
+	font-size: 36px;
+	position: relative;
+	text-align: center;
+	color: $white;
+	
+	@include mobile {
+	font-size: 28px;
+	}
+	}
+
+.index-description {
+	margin: 160px 0px 20px 0px;
+	font-style: italic;
+	font-size: 48px;
+	color: $white;
+	
+	@include mobile {
+	font-size: 36px;
+	margin: 0px 0px 20px 0px auto;
+	}
+	}
+
+.index-nav {
+	display: block;
+	
+	a {
+  text-decoration: none;
+  color: $white;
+  }
+	}
+	
+.index-nav-item {
+  display: block;
+  font-size: 36px;
+  color: $white;
+  font-weight: 300;
+  line-height: .9;
+  
+  @include mobile {
+  font-size: 24px;
+  }
+}
+
+.index-nav-item.active,
+a.index-nav-item:hover,
+a.index-nav-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
 }
 
 //
 // .networkanalysis
 //
 
-.browsehappy {
-	margin:.2em 0;
-    background:#ccc;
-    color:#000;
-    padding:.2em 0
-    }
-
+    
 #cy {
 	max-width:100%;
     height:700px;
@@ -280,21 +396,20 @@ img {
     width: auto;
     height: 500px;
     }
-    }    
+    } 
 
 //
 // .google-sheets
 //
 	
 iframe {
-	width: 850px;
 	height: 700px;
-	max-width: 95%;
+	width: 100%;
 	}
 //
 // .main
 //
-
+	
 table {
 	margin: 30px auto;
 	background-color: $white;
@@ -315,39 +430,11 @@ th {
 	padding: 0px 10px;
 	}
 }
-	
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
 
 
 footer {
+  position: relative;
   text-align: center;
   background-color: $black;
   height: 150px;
@@ -357,7 +444,8 @@ footer {
   }
 }
 
-.image-credit {
+.copyright {
+	position: relative;
 	padding: 50px 50px;
 	font-size: 13px;
 	float: center;
@@ -371,4 +459,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-@import "sidebar";
