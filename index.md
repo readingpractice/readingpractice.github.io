@@ -6,7 +6,8 @@ body {
 	background-image: url('https://iiif.wellcomecollection.org/image/b19719838_ms_5650_0001.JP2/full/760%2C/0/default.jpg');
 	background-repeat: no-repeat;
 	background-position: center top;
-	max-height: 900px;
+	max-height: 800px;
+	min-height: 400px;
 }
 </style>
 

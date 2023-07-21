@@ -197,7 +197,7 @@ img {
   display: none;
   position: absolute;
   background-color: $black;
-  min-width: 100px;
+  min-width: 150px;
   padding: 12px 16px;
   z-index: 1;
   color: $white;
@@ -230,7 +230,8 @@ img {
 a.dropdown-nav-item:hover,
 a.dropwdown-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: $lightGray;
+  opacity: 95%;
   border-color: transparent;
 }
 
