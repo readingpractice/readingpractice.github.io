@@ -4,18 +4,16 @@ title: Print Appendix B
 permalink: /print-appendix-b/
 ---
 
-__Visualizing the Publication History of Early Printed Practical Books__
+#### Visualizing the Publication History of Early Printed Practical Books
 
-The bar graphs and Gantt plots below were created on Tableau using with the same spreadsheet of
-standardized publication data also used for the Network Analysis in [Print Appendix B]({{ site.baseurl }}/print-appendix-b/),
-downloadable [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?output=csv)
-as a CSV file. 
-<br>
-<br>
-__Most Popular Editions of Practical Books__
+The bar graphs and Gantt plots below were created with the software Tableau, using the same spreadsheet of
+standardized publication data also used for [Print Appendix A]({{ site.baseurl }}/print-appendix-a/). That data can be 
+downloaded as a CSV file [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?output=csv). 
+
+#### Most Popular Editions of Practical Books
 
 This Gantt chart shows the publication dates for the most popular practical books
-published between 1500 and 1600 (defined as texts with 5 or more editions). The dotted line at the
+published between 1500 and 1600 (defined as texts issued in 5 or more editions). The dotted line at the
 center represents the incorporation of the Stationer's Company in 1557. With publication dates plotted like this,
 it is easier to see how the titles that were immensely popular (and reprinted by multiple printers)
 in the 1530s and 1540s faded from the print market after the Stationer's Register made it possible
@@ -26,7 +24,7 @@ for publisher's to protect their rights to a title.
 <br>
 <br>
 
-__Practical Books by Genre__
+#### Practical Books by Genre
 
 This bar graph illustrates how many practical books were published in each of these twenty-four
 genres over the course of the sixteenth century. 
@@ -36,7 +34,7 @@ genres over the course of the sixteenth century.
 <br>
 <br>
 
-__Most Prolific Printers of Practical Books, by Publication Dates__
+#### Most Prolific Printers of Practical Books, by Publication Dates
 
 This Gantt chart shows the most prolific printers of practical books in sixteenth-century England.
 Vertical marks indicate years in which these printers published an edition of a practical book, but
@@ -48,7 +46,8 @@ nicely illustrate how the careers of especially active printers (who were in dir
 ![Most prolific printers by publication date]({{ site.baseurl }}/images/tableau-3.jpg)
 <br>
 <br>
-__Most Prolific Printers of Practical Books, by Number of Editions__
+
+#### Most Prolific Printers of Practical Books, by Number of Editions
 
 This bar graph shows the number of editions printed by the most prolific printers of practical
 books in sixteenth-century England, defined as those who printed seven or more editions.

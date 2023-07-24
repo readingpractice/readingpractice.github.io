@@ -4,24 +4,18 @@ title: Manuscript Appendix A
 permalink: /manuscript-appendix-a/
 ---
 
-### Format and Contents of Vernacular Practical Manuscripts
+#### Reader Marks and Scribal Notes in Practical Manuscripts
 
-The data in the spreadsheet below was collected over ten years of research trips to reading rooms and 
-archives to view fifteenth-century manuscripts. My focus on these trips was to identify 
-fifteenth-century English manuscripts wholly comprised of medical and scientific information and 
-mostly written in the vernacular. I identified potential candidates by searching special collections
-catalogues and referencing the Voigts-Kurtz database of [Medical and Scientific Writings in Middle English](https://cctr1.umkc.edu/search)
-and then examined the manuscripts in person or online. Manuscripts that contained more than an occasional
-recipe or two in Latin were eliminated, as were manuscripts that were comprised of literary or
-religious material. My aim was to discover whether non-elite fifteenth-century English people conceived
-of books as tools for everyday practices like tending wounds, forecasting the weather, or making medicines.
-I focused on manuscripts solely composed in the vernacular because I believed these Manuscripts
-would get me closer to understanding how newly literate people with little experience with books
-incorporated the written word into their day to day lives.
+The spreadsheet below contains transcriptions of every reader mark in a fifteenth-
+century practical manuscript that I could attribute to a reader or which could be dated 
+definitively. In addition, the spreadsheet contains notes about other reader and scribal additions,
+like added recipes or indices. I note the location of these marks and indicate
+whether they were made in the fifteenth (XV), sixteenth (XVI), or seventeenth (XVII)
+centuries. In total, the spreadsheet contains notes or transcriptions of over 500 separate
+instances of reader interactions with practical manuscripts which formed
+the basis for the narrative history I tell in _Reading Practice._
+
 <br>
-<br>
-The product of this research is the spreadsheet below, containing information on the approximate age,
-composition, size, format, and contents of these manuscripts, as well as notations about whether the 
-manuscripts contain reader marks from the fifteenth, sixteenth, or seventeenth centuries. Transcriptions 
-of these reader marks are available in [Manuscripts Appendix B]({{ site.baseurl }}/manuscripts-appendix-b), 
-while descriptions of readers' censorship of recipes is available in [Manuscripts Appendix C]({{ site.baseurl }}/manuscripts-appendix-c).
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTABtJLyJF9nS5RZ1ElMYUT-enfT_5ooMWgWgDwvnIryIQtdjg6IxKv2uHbvpren3S9HHLBY8z0bDND/pubhtml?gid=262813940&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+To download this data as a CSV file, click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTABtJLyJF9nS5RZ1ElMYUT-enfT_5ooMWgWgDwvnIryIQtdjg6IxKv2uHbvpren3S9HHLBY8z0bDND/pub?gid=262813940&single=true&output=csv).
+
