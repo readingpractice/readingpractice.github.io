@@ -73,6 +73,7 @@ of practical books between 1485–1600.
 | Print Appendix A | Print Appendix B |
 | :--------------: | :--------------: |
 | [Network Analysis]({{ site.baseurl }}/print-appendix-a/) | [Graphs & Gantt Plots]({{ site.baseurl }}/print-appendix-b/) |
+
 <br>
 <br>
 
