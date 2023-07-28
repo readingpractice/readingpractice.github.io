@@ -260,7 +260,7 @@ img {
   display: block;
 }
 
-@media {
+@include mobile {
 .dropdown:hover, .dropdown:focus, .dropdown:active .dropdown-content {
 	display: block;
 	}
