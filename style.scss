@@ -190,6 +190,10 @@ img {
 	margin: 10px 20px 0px 0px;
 	}
 }
+
+.menu {
+	text-decoration: none;
+	}
 	
 .dropdown {
   position: relative;
@@ -256,7 +260,8 @@ img {
 	}
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover, 
+.dropdown:active .dropdown-content {
   display: block;
 }
 
