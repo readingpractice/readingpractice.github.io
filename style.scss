@@ -193,8 +193,8 @@ img {
 
 .menu {
 	text-decoration: none;
-	}
-	
+}
+
 .dropdown {
   position: relative;
   display: inline-block;
@@ -260,8 +260,7 @@ img {
 	}
 }
 
-.dropdown:hover, 
-.dropdown:active .dropdown-content {
+.dropdown:hover .dropdown-content {
   display: block;
 }
 
