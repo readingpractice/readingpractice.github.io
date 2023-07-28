@@ -184,15 +184,11 @@ img {
 .navigation {
 	float: right;
 	margin: 7px 85px 10px 0px;
+	cursor: pointer;
 	
 	@include mobile {
-	float: center;
 	margin: 10px 20px 0px 0px;
 	}
-}
-
-.menu {
-	text-decoration: none;
 }
 
 .dropdown {
@@ -262,6 +258,12 @@ img {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+@include mobile {
+.dropdown:active .dropdown-content {
+	display: block;
+	}
 }
 
 .dropdown-nav-item.active,
