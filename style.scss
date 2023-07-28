@@ -205,7 +205,9 @@ img {
   
   @include mobile {
   font-size: 22px;
-  }
+  
+  a {text-decoration: none;}
+	}
 }
 
 .dropdown-content {
