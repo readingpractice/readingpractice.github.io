@@ -261,7 +261,7 @@ img {
 }
 
 @media {
-.dropdown:hover, .dropdown:active .dropdown-content {
+.dropdown:hover, .dropdown:focus, .dropdown:active .dropdown-content {
 	display: block;
 	}
 }
