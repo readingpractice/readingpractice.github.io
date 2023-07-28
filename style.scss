@@ -199,6 +199,10 @@ img {
   color: $white;
   padding: 8px 8px;
   
+  a {
+  text-decoration: none;
+  }
+  
   @include mobile {
   font-size: 22px;
   }
