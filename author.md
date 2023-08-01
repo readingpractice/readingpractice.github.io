@@ -11,7 +11,8 @@ material texts. In her research and teaching, she is particularly interested in
 tracing how elite or learned cultures of medical and scientific knowledge are conveyed
 to ‘ordinary’ people through non-elite media, and in turn, how access to this knowledge
 brought about cultural change. For the 2023-24 academic year, she will be a Mellon Postdoctoral 
-Fellow at the Wolf Humanities Center at the University of Pennsylvania. Previously she was
+Fellow at the Wolf Humanities Center and a Lecturer in the History and Sociology of Science
+department at the University of Pennsylvania. Previously she was
 the David Bartholomae Postdoctoral Fellow at Rutgers University, and from 2019-2022, she was 
 the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
 the Liberal Arts and a Lecturer in History at Princeton University. She received her Ph.D.
