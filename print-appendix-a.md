@@ -30,15 +30,17 @@ for all editions of the same text. Only then would it be possible to see how man
 same practical texts were published over the period from 1485 to 1550. 
 <br>
 <br>
-A CSV file withthese standardized titles can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?output=csv).
-The network analysis below was created using these standardized titles.
+A CSV file with these standardized titles can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?output=csv).
+The network analysis below was created using an Edge List (downloadable as a CSV file [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?gid=1805285114&single=true&output=csv)) 
+and a Node List (downloadable as a CSV file [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?gid=1629021610&single=true&output=csv)), both of which were
+generated from the spreadsheet of standardized titles. 
 
 #### Network Analysis of Printers and Editions of Practical Books, 1485–1550
 
     
 <html class="no-js">
 	<meta charset="utf-8">
-        <meta name="description" content="Single network exported from Cytoscape 3.3">
+        <meta name="description" content="Single network exported from Cytoscape 3.8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!--[if lt IE 10]>
@@ -65,9 +67,9 @@ The network analysis below was created using these standardized titles.
    please visit [Cytoscape.org](https://cytoscape.org).
    
 #### Interpreting the Network Analysis 
-In the network visualization below, we see 151 editions of practical books, which represent just 49 unique texts. 
-Each of those 49 unique texts appears as one node within the network diagram (a white diamond), just as every 
-English printer is represented by a single node (a circle). In addition, both printers’ names and the titles of 
+In the network visualization below, we see 149 editions of practical books, which represent just 49 unique texts. 
+Each of those 49 unique texts appears as one node within the network diagram (in blue), just as every 
+English printer is represented by a single node (in black). In addition, both printers’ names and the titles of 
 books have been sized relative to their frequency in the network. So, for example, in the interactive visualization
 below, you can see that Richard Banckes’s very popular herbal (represented in this figure as 
 _A boke of the properties of herbes the which is called an herbal_) and the medical recipe collection 
@@ -78,11 +80,13 @@ network, because he only produced just four editions of practical books.
 <br>
 In addition to the relative sizes of nodes within the diagram, lines connecting printers and 
 book titles represent a single edition of that book. For example, at the bottom left of the network 
-diagram, the two lines connecting Wynkyn de Worde to _Here begynneth a litill boke necessarye & behouefull agenst the pestilence_
-indicate that De Worde printed two editions of the text over the course of his career. 
-The three lines connecting the same title to William Machlinia illustrate that he, too, printed the 
-text three times. The printers are connected to one another by their shared publication of the plague treatise, 
-but De Worde’s name is far larger than Machlinia’s because he printed many more practical books in total.
+diagram, the two lines connecting Reynolde Wolde to _The urinal of phyisick_
+indicate that Wolfe printed two editions of the text over the course of his career. 
+Really popular titles like _This is the myrour or glasse of helth_ have multiple lines
+connecting the title to multiple printers, indicating that the work went through several
+editions from multiple printing houses. The title _This is the myrour or glasse of helth_ is
+larger than that of _This lytell boke contaynethe certayne gostly medycynes_ because it was 
+issued more than a dozen times before 1550, whereas _This lytell boke_ was issued only once.
 <br>
 <br>
 You can explore the network analysis by clicking on individual nodes or edges, or even rearranging the nodes in the network to get a better sense of how 
