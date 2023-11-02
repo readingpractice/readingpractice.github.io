@@ -27,12 +27,12 @@ into a very old and learned conversation. In these books, Hippocrates and Galen 
 authorities whose word was law; they were trusted guides, whose advice could be excerpted, 
 rearranged, recombined, and even altered when it suited a manuscript compiler or printer’s needs. 
 English readers grew confident assessing and critiquing this ancient knowledge in the margins 
-of fifteenth-century manuscript remedy collections.After William Caxton introduced the printing 
+of fifteenth-century manuscript remedy collections. After William Caxton introduced the printing 
 press to England in 1476, English printers eagerly mined fifteenth-century manuscript collections 
 for popular medical recipes or herbal remedies that they would publish, over and over again, 
 throughout the sixteenth century. Whereas printers in France or Germany or Italy published more 
 Latin books than vernacular ones in the early decades of print, the opposite was the case in England. 
-English printers’ preference for the vernacular—to include vernacular medicine and science—kept 
+English printers’ preference for the vernacular (to include vernacular medicine and science) kept 
 England on the periphery of learned European medical culture, but at the same time, it put 
 non-elite readers at the center of debates about the body, health, and the natural world 
 within England. In the sixteenth-century bookshops around St. Paul’s Cathedral, English 
@@ -44,8 +44,8 @@ claims: some of them ancient, some of them newly invented by savvy publishers ho
 _Reading Practice_ argues that English readers learned to be discerning and selective 
 consumers of knowledge, gradually, in everyday interactions with run-of-the-mill books. 
 When truly innovative, world-changing natural knowledge did begin to appear in Elizabethan 
-bookshops—in books that revealed the remarkable diversity of plant species across the globe, 
+bookshops--in books that revealed the remarkable diversity of plant species across the globe, 
 in diagrams that offered a glimpse of the interior of the human body, or in simple illustrations 
-that altered the shape of the universe—English readers were primed to train their analytical acumen on 
+that altered the shape of the universe—-English readers were primed to train their analytical acumen on 
 those practical books, too. In the everyday practices of reading, editing, amending, and even censoring 
 practical books, ordinary English people grew into capable and confident judges of natural knowledge.
