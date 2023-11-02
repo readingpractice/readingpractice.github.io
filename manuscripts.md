@@ -14,24 +14,22 @@ of the fifteenth-century, hundreds (if not thousands) of English people commissi
 manuscripts to collect it. I began searching for these manuscripts in the summer of 2014, using the Voigts-Kurtz 
 database of [Medical and Scientific Writings in Middle English](https://cctr1.umkc.edu/search), compiled over several decades
 by Linda Ehrsam Voigts and Patricia Deery Kurtz, and now containing data on more than 1200 Middle
-English manuscripts containing vernacular medical or scientific texts. 
-<br>
-<br>
-In addition to locating promising manuscripts on the Voigts-Kurtz database, I also combed the manuscript
+English manuscripts containing vernacular medical or scientific texts. In addition to locating promising manuscripts
+on the Voigts-Kurtz database, I also combed manuscript
 catalogues for holdings at the Beinecke Library, Yale University; Bodleain Library, University of Oxford;
 British Library, London; Cambridge University Library, Cambridge; Henry E. Huntington Library, San Marino, CA;
 Morgan Library, New York; National Library of Medicine, Bethesda, MD; Trinity College Cambridge Library, Cambridge;
 University of Glasgow Library, Glasgow; and Wellcome Library, London.
 <br>
 <br>
-After identifying promising manuscripts, I made multiple research trips to these libraries, many of which had thankfully
-changed their photography policies shortly before this project began. From an initial corpus of over 300 potential "practical manuscripts"
-I weeded out exemplars that contained numerous Latin texts, as well as manuscripts that contained texts
-unrelated to medicine and science. My aim was to discover whether non-elite fifteenth-century English people conceived
-of books as tools for everyday practices like tending wounds, forecasting the weather, or making medicines.
-I hoped to understand how newly literate people with little experience with books sought knowledge in books that
-were unlike the books they had been trained to revere in mass or at prayer. I was left with a handlist of 182 vernacular "practical" manuscripts,
-all but a handful of which I have consulted in person.
+From these searches, I identified over 300 fifteenth-century manuscripts that I hoped would reveal something of non-elite
+peoples' attitudes toward books and toward medical and scientific knowledge. But I couldn't ascertain what that relationship was--or,
+indeed, if the manuscripts I had identified were the sort of book that a non-elite person might own--until I made research trips to
+the libraries and archives that held them. I was fortunate to begin this project at the same time that many libraries in the U.K. were
+changing their policies in regards to digital photography. As a result, I was able to photograph scores of manuscripts in a single trip,
+which I then analyzed and catalogued in my database over the following months. As I read these manuscripts, I weeded out exemplars
+with a great deal of learned medical theory in Latin, as well as exemplars that contained more literary or religious texts than medical or
+scientific texts. From my initial list of over 300 potential "practical manuscripts" I arrived at a corpus of 182 manuscripts filled nearly entirely with medical or practical scientific knowledge in Middle English. 
 <br>
 <br>
 #### About the Data
@@ -52,10 +50,16 @@ The spreadsheet below contains the following information on each of these 182 ve
 
 Over the course of nearly ten years in reading rooms looking at these practical manuscripts,
 it became apparent that the same categories of natural knowledge reappear over and over again
-within these collections, even if individual texts themselves vary from exemplar to exemplar. Users who
-wish to trace the circulation of individual Middle English texts would be better served consulting
+within these collections, even if individual texts themselves vary from exemplar to exemplar. Though it is
+fascinating to see how recipes, didactic poems, or treatises circulated from one manuscript to another, that
+was not the focus of my own research. I wanted to understand how these books served as tools in the lives of
+those who commissioned or created them, and thus I treat them as epistemic objects through which readers and
+writers forged new knowledge or amended old. Researchers who wish to trace the circulation of individual Middle English
+texts would be better served consulting
 the [Voigts-Kurtz database](https://cctr1.umkc.edu/search), the [Digital Index of Middle English Verse](https://www.dimev.net),
 or George Keiser's _A Manual of the Writings in Middle English, 1050–1500_, Vol. 10: Science and Information (New Haven, 1998).
+<br>
+<br>
 However, because I remain interested in readers' experience of natural knowledge, the spreadsheet below does
 note which genres of natural knowledge appear in each practical manuscript. My aim in noting the 
 contents of these manuscripts is to indicate which genres of natural knowledge were most compelling
