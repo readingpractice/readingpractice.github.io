@@ -5,14 +5,14 @@ permalink: /print-appendix-a/
 ---
 
 #### Creating a Network Analysis of Early Modern Printers & Practical Books 
-Before the incorporation of the Stationer's Company in 1557, English printers very often published
+Before the incorporation of the Stationers' Company in 1557, English printers very often published
 editions of the same practical texts and competed with one another in the very crowded London print market.
-As I show in _Reading Practice_, printers mined fifteenth-century manuscripts sources for medical recipes, herbals, texts on
-phlebotomy, on uroscopy, on agriculture, and on animal husbandry that they subsequently printed in
+As I show in _Reading Practice_, these practical books were often sourced from fifteenth-century manuscripts sources,
+which contained medical recipes, herbals, texts on
+phlebotomy, on uroscopy, on agriculture, and on animal husbandry that were subsequently printed in
 vernacular editions. By and large, for the first six decades of English print, London publishers
 very rarely commissioned _new_ practical texts for publication. They simply reproduced editions of 
-texts that were already enormously popular in manuscript. Before the incorporation of the Stationer's 
-Company in 1557, there was little to stop an English printer from reproducing his own copy of a rival's 
+texts that were already enormously popular in manuscript. Before the creation of the Stationers' Register, there was little to stop an English printer from reproducing his own copy of a rival's 
 medical recipe collection. As a result, the English print market was cluttered with competing editions of the _same_ practical texts.
 Yet every printer needed readers to purchase _their_ edition over that of their rival if they wanted to 
 stay in business. 
