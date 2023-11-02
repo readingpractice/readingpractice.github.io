@@ -8,7 +8,7 @@ permalink: /manuscript-appendix-b/
 
 Though fifteenth-century readers did not often cancel or erase the contents of practical manuscripts,
 by the later sixteenth century readers had grown concerned about certain genres of texts
-in practical manuscripts. For the most part, these concerns were driven by the English Reformation,
+copied in these centuries-old collections. For the most part, these concerns were driven by the English Reformation,
 which was especially hostile toward the "superstition" and magic associated with the older
 medieval church, as well as by rising fears about witchcraft and magic. Indeed, as the spreadsheet
 below indicates, the categories of text most often censored by early modern readers often
