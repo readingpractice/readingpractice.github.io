@@ -4,7 +4,8 @@ title: About the Book
 permalink: /book/
 ---
 
-[Click here](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) to pre-order _Reading Practice: The Pursuit of Natural Knowledge_ (coming August 2024) from The University of Chicago Press.
+[Click here](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) to pre-order _Reading Practice: The Pursuit of Natural Knowledge_ (coming August 2024) from The University of Chicago Press.<br>
+
 
 _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ tells the 
 story of how ordinary English people grew comfortable acting as adjudicators of natural knowledge 
