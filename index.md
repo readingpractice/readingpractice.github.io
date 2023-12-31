@@ -26,9 +26,10 @@ Digital Appendices
 
 <div class="index-nav">
     <a class="index-nav-item" href="{{ site.baseurl }}/manuscripts">Manuscript Appendices</a><br>
-    <a class="index-nav-item" href="{{ site.baseurl }}/print">Print Appendices</a><br><br><br>
+    <a class="index-nav-item" href="{{ site.baseurl }}/print">Print Appendices</a><br><br>
     <a class="index-nav-item" href="{{ site.baseurl }}/author">About the Author</a><br>
-    <a class="index-nav-item" href="{{ site.baseurl }}/book">About the Book</a>
+    <a class="index-nav-item" href="{{ site.baseurl }}/book">About the Book</a><br>
+    <a class="index-nav-item" href="https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html">Press Website</a>
 </div>
 </div>
 
