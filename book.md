@@ -12,8 +12,7 @@ through interactions with hundreds of manuscripts and printed books: almanacs, m
 collections, herbals, and prognostications. These were the books English people read from around 
 the turn of the fifteenth century to the close of the sixteenth century when they wanted to 
 attend to their health, manage the unpredictability of illness, or understand their place in 
-the divinely-created universe. Before 1375 or so, this corpus of natural knowledge had largely 
-been confined to monks or university clerics who could read the Latin in which most medieval 
+the divinely-created universe. Before 1375 or so, this corpus of natural knowledge had largely circulated among monks or university clerics who could read the Latin in which most medieval 
 medicine and science was written. To be sure, ordinary people outside the church tended wounds 
 and watched the stars just as often as did learned monks, but their knowledge (though we would 
 call it experiential or observational) was afforded very little status within medieval culture.
@@ -49,5 +48,8 @@ When truly innovative, world-changing natural knowledge did begin to appear in E
 bookshops--in books that revealed the remarkable diversity of plant species across the globe, 
 in diagrams that offered a glimpse of the interior of the human body, or in simple illustrations 
 that altered the shape of the universe—-English readers were primed to train their analytical acumen on 
-those practical books, too. In the everyday practices of reading, editing, amending, and even censoring 
-practical books, ordinary English people grew into capable and confident judges of natural knowledge.
+those practical books, too. But so, too, did centuries of interactions with _English_ books and manuscripts bolster a rising tide of nationalistic sentiment among these same readers. 
+<br>
+<br>
+_Reading Practice_ argues that in the everyday practices of reading, editing, amending, and even censoring 
+practical books, English people developed the attitudes and aptitudes necessary for the emergence of the phenomenon we now call the scientific revolution.
