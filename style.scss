@@ -405,7 +405,7 @@ a.dropwdown-nav-child:focus {
 	color: $white;
 	
 	@include mobile {
-	font-size: 20px;
+	font-size: 24px;
 	margin: 0px 0px 0px 0px auto;
 	}
 	}
@@ -415,6 +415,10 @@ a.dropwdown-nav-child:focus {
 	position: relative;
 	font-size: 36px;
 	font-weight: 900;
+	
+	@include mobile {
+	font-size: 24px;
+	}
 	
 	a {
   text-decoration: none;
