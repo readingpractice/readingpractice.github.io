@@ -12,6 +12,10 @@ body {
 </style>
 
 <div class="index-container">
+<div class="index-description">
+A Digital Companion to
+</div>
+
 <div class="index-title">
 Reading Practice
 </div>
@@ -19,18 +23,23 @@ Reading Practice
 <div class="index-subtitle">
 The Pursuit of Natural Knowledge from Manuscript to Print
 </div>
-
 <div class="index-description">
-Digital Appendices
+by Melissa Reynolds
+<br>
+<br>
+<br>
 </div>
+
 
 <div class="index-nav">
-    <a class="index-nav-item" href="{{ site.baseurl }}/manuscripts">Manuscript Appendices</a><br>
-    <a class="index-nav-item" href="{{ site.baseurl }}/print">Print Appendices</a><br><br><br>
-    <a class="index-nav-item" href="{{ site.baseurl }}/author">About the Author</a><br>
-    <a class="index-nav-item" href="{{ site.baseurl }}/book">About the Book</a><br>
-    <a class="index-nav-item" href="https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html">Press Website</a>
+MENU
+    <a class="index-nav-item" href="{{ site.baseurl }}/manuscripts">Manuscript Appendices</a>
+    <a class="index-nav-item" href="{{ site.baseurl }}/print">Print Appendices</a>
+    <a class="index-nav-item" href="{{ site.baseurl }}/author">About the Author</a>
+    <a class="index-nav-item" href="https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html">Buy the Book</a>
 </div>
+
+
 </div>
 
 
