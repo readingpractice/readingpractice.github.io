@@ -338,11 +338,13 @@ a.dropwdown-nav-child:focus {
 
 .site-byline {
 	color: $white;
+	margin: 0px 0px -12px 0px;
 	font-style: italic;
 	font-size: 28px;
 	font-weight: lighter;
 	
 	@include mobile {
+	margin: 0px 0px -5px 0px;
 	font-size: 22px;
 	}
 }
