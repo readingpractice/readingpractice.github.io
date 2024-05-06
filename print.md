@@ -3,12 +3,29 @@ layout: page
 title: Print Appendices
 permalink: /print/
 ---
+| Appendix A: | Appendix B: |
+| :---- | ----: |
+| [Network Analysis](/print-appendix-a/) | [Graphs & Gantt Plots](/print-appendix-b/) |
 
+<hr>
 #### About the Data 
-In _Reading Practice_ I trace the circulation of natural knowledge in both fifteenth-century
-manuscripts and over 475 editions early printed "practical" books published between 1485 and 1600. I defined a practical book as 
-a book in the vernacular containing useful (and not strictly theoretical) knowledge related to
-medicine and science. In practical terms, this definition includes the following genres: 
+In order to identity the 479 editions early printed "practical" books published between 1485 and 1600
+analyzed in _Reading Practice_, I relied heavily on the data I had already collected through 
+analysis of nearly 200 [fifteenth-century manuscripts](/manuscripts). In my years of reading
+manuscripts at libraries in the U.S. and U.K., I realized that many of the same categories of
+useful knowledge reappeared in these collections, over and over again. My familiarity with 
+this manuscript tradition directed my search of the British Library's online database of
+the _English Short Title Catalogue_ 
+([http://estc.bl.uk](http://estc.bl.uk)), which contains bibliographical data drawn from Katherine Pantzer, et al, eds., _A Short-Title Catalogue of Books Printed in England, Scotland, and Ireland, 
+and of English Books Printed Abroad, 1475–1640,_ 3 vols., Revised and enlarged second edition (London: Bibliographical Society, 1976–1993). 
+Note that the digital _ESTC_ remains inaccessible as of summer 2024, following a cyber attack on
+the British Library.
+<br>
+<br>
+My research involved combing through the publication data in the digital _ESTC_, beginning 
+with the introduction of the press in 1476 and continuing to 1600, first in decade-by-decade 
+searches and then, for the years after 1530, in year-by-year searches for books that fell within 
+any of the following genres:
 
 - medical recipe collections
 - herbals
@@ -24,24 +41,14 @@ medicine and science. In practical terms, this definition includes the following
 - husbandry manuals
 - veterinary medicine 
 
-I focused on these genres because these are the same categories of knowledge commonly found in fifteenth-century
-vernacular manuscripts, and because they represent the sort of natural knowledge that I believe that all those who
-_could_ read, _did_ read in sixteenth-century England. For these reasons, I chose not to include vernacular books 
-on navigation, metallurgy, or weaponry in my corpus of "practical books." These categories of natural
-knowledge are not well-represented in the fifteenth-century vernacular manuscripts I examined.
-<br>
-<br>
-To arrive at this corpus of over 475 editions of English "practical books," I searched the digital _English Short Title Catalogue_ 
-([http://estc.bl.uk](http://estc.bl.uk)), which contains bibliographical data drawn from Katherine Pantzer, et al, eds., _A Short-Title Catalogue of Books Printed in England, Scotland, and Ireland, 
-and of English Books Printed Abroad, 1475–1640,_ 3 vols., Revised and enlarged second edition (London: Bibliographical Society, 1976–1993). 
-I combed through publication data decade-by-decade, beginning with the introduction of the press in 1476 up to
-the close of the sixteenth century to identify every edition of the genres listed above published in England over that time.
 No doubt I have missed editions in my search; I will continue to update this spreadsheet and welcome feedback from users.
+However, readers will also note that I did not include books on navigation, metallurgy, or 
+weaponry here, as these categories of "practical" knowledge are not present in the
+fifteenth-century manuscripts in my corpus.
 <br>
 <br>
-#### Access the Data
-The data I collected from the _ESTC_ can be viewed in the spreadsheet (below). To download this data as a CSV file, click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRycTIz4A5N-61tgUAu5tG7bpIWBuVSmEqzudvayuhTsZtR9qrBA_K9_GkctWreIOgzIWuGJDE8IV4Y/pub?output=csv). 
-The spreadsheet contains the following information as printed in the _English Short Title Catalogue._:
+The spreadsheet below contains the following information on the 479 practical books in my 
+corpus, as printed in the _English Short Title Catalogue_:
 - Publication date
 - STC number (revised)
 - Standardized short title**
@@ -52,27 +59,25 @@ The spreadsheet contains the following information as printed in the _English Sh
 - Author 
 - Editor 
 - Translator
+
+**__A note on titles__: Early modern printers saw no reason to use the same title in subsequent re-editions of the same texts. Because the
+purpose of my research was to demonstrate how the same texts and genres of natural knowledge reappeared in multiple
+editions of printed books--over and over again--I chose to standardize the titles of the same texts so that I could use 
+this data for my network analysis. See [Print Appendix A]({{ site.baseurl }}/print-appendix-a) for more information about 
+how I standardized these titles.
 <br>
 <br>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRycTIz4A5N-61tgUAu5tG7bpIWBuVSmEqzudvayuhTsZtR9qrBA_K9_GkctWreIOgzIWuGJDE8IV4Y/pubhtml?widget=true&amp;headers=false"></iframe>
-<br>
-**_Early modern printers saw no reason to use the same title in subsequent re-editions of the same texts. Because the
-purpose of my research was to demonstrate how the same texts and genres of natural knowledge reappeared in multiple
-editions of printed books--over and over again--I chose to standardize the titles of the same texts so that I could use 
-this data for my network analysis. See [Print Appendix A]({{ site.baseurl }}/print-appendix-a) for more information about the
-how I standardized these titles._
+To download this data as a CSV file, click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRycTIz4A5N-61tgUAu5tG7bpIWBuVSmEqzudvayuhTsZtR9qrBA_K9_GkctWreIOgzIWuGJDE8IV4Y/pub?output=csv). 
 <br>
 <br>
+
 #### About the Print Appendices
 
-With this data in hand, I was able to create both a network analysis [(Appendix A)]({{ site.baseurl }}/appendix-a) 
+With this data from the _ETSTC_ in hand, I was able to create both a network analysis [(Print Appendix A)]({{ site.baseurl }}/appendix-a) 
 illustrating the relationship between London's printers and popular editions of practical books, 
-as well as several data visualizations [(Appendix B)]({{ site.baseurl }}/appendix-b) that illustrate the most popular genres, most common size, and most prolific printers
-of practical books between 1485–1600.
-
-| Print Appendix A | Print Appendix B |
-| :--------------: | :--------------: |
-| [Network Analysis]({{ site.baseurl }}/print-appendix-a/) | [Graphs & Gantt Plots]({{ site.baseurl }}/print-appendix-b/) |
+as well as several data visualizations [(Print Appendix B)]({{ site.baseurl }}/appendix-b) that illustrate the most popular genres, most common size, and most prolific printers
+of practical books in England between 1485–1600. 
 
 <br>
 <br>
