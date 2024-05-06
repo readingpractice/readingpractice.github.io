@@ -18,7 +18,8 @@ century--but it wasn't until the later sixteenth century that we find evidence o
 censoring such knowledge in the pages of practical manuscripts.
 <br>
 <br>
+To download this dataset as a .csv file, click [here](https://doi.org/10.5281/zenodo.11123120).
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTABtJLyJF9nS5RZ1ElMYUT-enfT_5ooMWgWgDwvnIryIQtdjg6IxKv2uHbvpren3S9HHLBY8z0bDND/pubhtml?gid=2141109036&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-To download this data as a CSV file, click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTABtJLyJF9nS5RZ1ElMYUT-enfT_5ooMWgWgDwvnIryIQtdjg6IxKv2uHbvpren3S9HHLBY8z0bDND/pub?gid=2141109036&single=true&output=csv).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11123120.svg)](https://doi.org/10.5281/zenodo.11123120)
 <br>
 <br>

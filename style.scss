@@ -81,7 +81,8 @@ p {
 
 a {
   color: $white;
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: bold;
 	cursor: pointer;
   &:hover, &:active {
     color: $lightGray;
@@ -243,20 +244,6 @@ img {
 	
 	@include mobile {
 	font-size: 20px;
-	padding: 10px auto;
-	margin: 7px auto;
-	}
-}
-	
-.dropdown-nav-child {
-	display: block;
-	text-align: right;
-	font-size: 24px;
-	padding: 15px auto;
-	font-weight: 300;
-	
-	@include mobile {
-	font-size: 18px;
 	padding: 10px auto;
 	margin: 7px auto;
 	}
@@ -478,14 +465,13 @@ iframe {
 //
 	
 table {
-	margin: 30px auto;
-	border: solid 1px $white;
+	margin: 0px auto;
+	border: solid 1px $black;
 	width: 100%;
 
 td {
 	font-size: 22px;
-	padding: 10px 10px 20px 10px;
-	border: solid 1px $white;
+
 	
 	@include mobile {
 	font-size: 18px;
@@ -495,8 +481,6 @@ td {
 th {
 	font-size: 22px;
 	font-weight: 900;
-	padding: 10px 10px;
-	border: solid 1px $white;
 	
 	@include mobile {
 	font-size: 18px;
@@ -506,6 +490,7 @@ th {
 
 
 footer {
+  display: table-footer-group;
   position: relative;
   text-align: center;
   background-color: $black;
@@ -519,7 +504,7 @@ footer {
 .copyright {
 	position: relative;
 	padding: 50px 50px;
-	font-size: 13px;
+	font-size: 14px;
 	float: center;
 	
 	@include mobile {

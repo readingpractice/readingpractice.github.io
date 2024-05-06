@@ -7,8 +7,8 @@ permalink: /print-appendix-b/
 #### Visualizing the Publication History of Early Printed Practical Books
 
 The bar graphs and Gantt plots below were created with the software Tableau, using the same spreadsheet of
-standardized publication data also used for [Print Appendix A]({{ site.baseurl }}/print-appendix-a/). That data can be 
-downloaded as a CSV file [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?output=csv). 
+standardized publication data also used for [Print Appendix A](/print-appendix-a/). That data can be 
+downloaded as a CSV file [here](https://doi.org/10.5281/zenodo.11122956). 
 
 #### Most Popular Editions of Practical Books
 
@@ -20,7 +20,7 @@ in the 1530s and 1540s faded from the print market after the Stationer's Registe
 for publisher's to protect their rights to a title.
 <br>
 <br>
-![Most popular practical books, arranged by publication date]({{ site.baseurl }}/images/tableau-1.jpg)
+![Most popular practical books, arranged by publication date](/images/tableau-1.jpg)
 <br>
 <br>
 
@@ -30,7 +30,7 @@ This bar graph illustrates how many practical books were published in each of th
 genres over the course of the sixteenth century. 
 <br>
 <br>
-![Bar graph showing the number of practical books printed by genre]({{ site.baseurl }}/images/tableau-2.jpg)
+![Bar graph showing the number of practical books printed by genre](/images/tableau-2.jpg)
 <br>
 <br>
 
@@ -43,7 +43,7 @@ exactly how many practical books each printer produced in the course of a career
 nicely illustrate how the careers of especially active printers (who were in direct competition with one another) overlapped.
 <br>
 <br>
-![Most prolific printers by publication date]({{ site.baseurl }}/images/tableau-3.jpg)
+![Most prolific printers by publication date]({/images/tableau-3.jpg)
 <br>
 <br>
 
@@ -53,4 +53,4 @@ This bar graph shows the number of editions printed by the most prolific printer
 books in sixteenth-century England, defined as those who printed seven or more editions.
 <br>
 <br>
-![Most prolific printers by number of editions]({{ site.baseurl }}/images/tableau-4.jpg)
+![Most prolific printers by number of editions](/images/tableau-4.jpg)

@@ -60,21 +60,20 @@ corpus, as printed in the _English Short Title Catalogue_:
 - Editor 
 - Translator
 
-**__A note on titles__: Early modern printers saw no reason to use the same title in subsequent re-editions of the same texts. Because the
-purpose of my research was to demonstrate how the same texts and genres of natural knowledge reappeared in multiple
-editions of printed books--over and over again--I chose to standardize the titles of the same texts so that I could use 
-this data for my network analysis. See [Print Appendix A]({{ site.baseurl }}/print-appendix-a) for more information about 
-how I standardized these titles.
+**__A note on titles__: Early modern printers saw no reason to use the same title in subsequent re-editions of the same texts,
+nor were they particularly concerned about consistent spelling. The short titles in this
+spreadsheet have been loosely standardized to reflect these variations. 
 <br>
 <br>
+Download this dataset as a .csv file [here](https://doi.org/10.5281/zenodo.11122956).
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRycTIz4A5N-61tgUAu5tG7bpIWBuVSmEqzudvayuhTsZtR9qrBA_K9_GkctWreIOgzIWuGJDE8IV4Y/pubhtml?widget=true&amp;headers=false"></iframe>
-To download this data as a CSV file, click [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRycTIz4A5N-61tgUAu5tG7bpIWBuVSmEqzudvayuhTsZtR9qrBA_K9_GkctWreIOgzIWuGJDE8IV4Y/pub?output=csv). 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11122956.svg)](https://doi.org/10.5281/zenodo.11122956)
 <br>
 <br>
 
 #### About the Print Appendices
 
-With this data from the _ETSTC_ in hand, I was able to create both a network analysis [(Print Appendix A)]({{ site.baseurl }}/appendix-a) 
+With this data from the _ESTC_ in hand, I was able to create both a network analysis [(Print Appendix A)]({{ site.baseurl }}/appendix-a) 
 illustrating the relationship between London's printers and popular editions of practical books, 
 as well as several data visualizations [(Print Appendix B)]({{ site.baseurl }}/appendix-b) that illustrate the most popular genres, most common size, and most prolific printers
 of practical books in England between 1485–1600. 

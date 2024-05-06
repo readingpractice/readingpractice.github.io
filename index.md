@@ -23,14 +23,13 @@ Reading Practice
 <div class="index-subtitle">
 The Pursuit of Natural Knowledge from Manuscript to Print
 </div>
-<div class="index-description">
-by Melissa Reynolds
 <br>
 <br>
 <br>
-</div>
-
-
+<br>
+<br>
+<br>
+<br>
 <div class="index-nav">
 MENU
     <a class="index-nav-item" href="{{ site.baseurl }}/manuscripts">Manuscript Appendices</a>
@@ -38,6 +37,9 @@ MENU
     <a class="index-nav-item" href="{{ site.baseurl }}/author">About the Author</a>
     <a class="index-nav-item" href="https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html">Buy the Book</a>
 </div>
+<br>
+<br>
+<br>
 
 
 </div>

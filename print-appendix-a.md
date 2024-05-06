@@ -30,10 +30,7 @@ for all editions of the same text. Only then would it be possible to see how man
 same practical texts were published over the period from 1485 to 1550. 
 <br>
 <br>
-A CSV file with these standardized titles can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?output=csv).
-The network analysis below was created using an Edge List (downloadable as a CSV file [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?gid=1805285114&single=true&output=csv)) 
-and a Node List (downloadable as a CSV file [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCv6EiFo5wd_N0MBuJH2ymK_xticVm3k2-4ZgccZTCeA9v-yTA2kEE3ff9ER_4xbkwIkSrt4IoX0dk/pub?gid=1629021610&single=true&output=csv)), both of which were
-generated from the spreadsheet of standardized titles. 
+The dataset with these standardized titles is available for download as a .csv file [here](https://doi.org/10.5281/zenodo.11122956). 
 
 #### Network Analysis of Printers and Editions of Practical Books, 1485–1550
 
