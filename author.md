@@ -13,8 +13,8 @@ to ‘ordinary’ people through non-elite media, and in turn, how access to thi
 brought about cultural change. Her first book, [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html), was published by the University of Chicago Press in August 2024. 
 <br>
 <br>
-In the Fall of 2024, she will join the history department at TCU as an Assistant Professor of Early Modern 
-European History. She was previously a Mellon Postdoctoral Fellow at the Wolf Humanities Center 
+Reynolds is Assistant Professor of Early Modern 
+European History at TCU. She was previously a Mellon Postdoctoral Fellow at the Wolf Humanities Center 
 and Lecturer in History and Sociology of Science at the University of Pennsylsvania and the Perkins-Cotsen Postdoctoral Fellow in the Society 
 of Fellows and Lecturer in History at Princeton University. Her work has been 
 recognized with fellowships and awards from the American Association for the History of Medicine, the Renaissance 
