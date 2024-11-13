@@ -10,8 +10,7 @@ history of medicine and science, the history of gender and the body, and the his
 material texts. In her research and teaching, she is particularly interested in
 tracing how elite or learned cultures of medical and scientific knowledge are conveyed
 to ‘ordinary’ people through non-elite media, and in turn, how access to this knowledge
-brought about cultural change. Her first book, _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_,
-is [available for preorder](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) and will be published by the University of Chicago Press in August 2024. 
+brought about cultural change. Her first book, [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html), was published by the University of Chicago Press in August 2024. 
 <br>
 <br>
 In the Fall of 2024, she will join the history department at TCU as an Assistant Professor of Early Modern 
