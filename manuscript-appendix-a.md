@@ -91,6 +91,8 @@ and which most often appeared side-by-side within the same collections.
 <br>
 
 Download this data as a .csv file [here](https://doi.org/10.5281/zenodo.11123120).
+
+<hr>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTABtJLyJF9nS5RZ1ElMYUT-enfT_5ooMWgWgDwvnIryIQtdjg6IxKv2uHbvpren3S9HHLBY8z0bDND/pubhtml?gid=920939365&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11123120.svg)](https://doi.org/10.5281/zenodo.11123120)
 <br>
