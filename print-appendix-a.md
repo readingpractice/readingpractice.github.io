@@ -12,10 +12,9 @@ manuscripts at libraries in the U.S. and U.K., I realized that many of the same 
 useful knowledge reappeared in these collections, over and over again. My familiarity with 
 this manuscript tradition directed my search of the British Library's online database of
 the _English Short Title Catalogue_ 
-([http://estc.bl.uk](http://estc.bl.uk)), which contains bibliographical data drawn from Katherine Pantzer, et al, eds., _A Short-Title Catalogue of Books Printed in England, Scotland, and Ireland, 
+([https://datb.cerl.org/estc](https://datb.cerl.org/estc)), which contains bibliographical data drawn from Katherine Pantzer, et al, eds., _A Short-Title Catalogue of Books Printed in England, Scotland, and Ireland, 
 and of English Books Printed Abroad, 1475–1640,_ 3 vols., Revised and enlarged second edition (London: Bibliographical Society, 1976–1993). 
-Note that the digital _ESTC_ remains inaccessible as of summer 2024, following a cyber attack on
-the British Library.
+
 <br>
 <br>
 My research involved combing through the publication data in the digital _ESTC_, beginning 

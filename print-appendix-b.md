@@ -31,6 +31,35 @@ same practical texts were published over the period from 1485 to 1550.
 <br>
 The dataset with these standardized titles is available for download as a .csv file [here](https://doi.org/10.5281/zenodo.11122956). 
 
+#### Interpreting the Network Analysis 
+In the network visualization above, we see 149 editions of practical books, which represent just 49 unique texts. 
+Each of those 49 unique texts appears as one node within the network diagram (in blue), just as every 
+English printer is represented by a single node (in black). In addition, both printers’ names and the titles of 
+books have been sized relative to their frequency in the network. So, for example, in the interactive visualization
+below, you can see that Richard Banckes’s very popular herbal (represented in this figure as 
+_A boke of the properties of herbes the which is called an herbal_) and the medical recipe collection 
+_Treasure of pore men_ were central to the economy of practical knowledge exchange in sixteenth-century England, 
+given that their titles appear larger than others in the network. But, Richard Banckes’s name is small in this 
+network, because he only produced just four editions of practical books. 
+<br>
+<br>
+In addition to the relative sizes of nodes within the diagram, lines connecting printers and 
+book titles represent a single edition of that book. For example, at the bottom left of the network 
+diagram, the two lines connecting Reynolde Wolde to _The urinal of phyisick_
+indicate that Wolfe printed two editions of the text over the course of his career. 
+Really popular titles like _This is the myrour or glasse of helth_ have multiple lines
+connecting the title to multiple printers, indicating that the work went through several
+editions from multiple printing houses. The title _This is the myrour or glasse of helth_ is
+larger than that of _This lytell boke contaynethe certayne gostly medycynes_ because it was 
+issued more than a dozen times before 1550, whereas _This lytell boke_ was issued only once.
+<br>
+<br>
+You can explore the network analysis by clicking on individual nodes or edges, or even rearranging the nodes in the network to get a better sense of how 
+London printers competed over the same practical texts. Use two fingers to zoom in and out (you'll zoom in
+wherever the mouse cursor is located in the network) and click and drag individual dones to move them in the network.
+<br>
+<br>
+
 #### Printers and Editions of Practical Books, 1485–1550
 
     
@@ -61,35 +90,10 @@ The dataset with these standardized titles is available for download as a .csv f
    This network analysis was produced using Cytoscape (version 3.8.2), an open source 
    software platform for visualizing complex networks. For more information about Cytoscape
    please visit [Cytoscape.org](https://cytoscape.org).
-   
-#### Interpreting the Network Analysis 
-In the network visualization above, we see 149 editions of practical books, which represent just 49 unique texts. 
-Each of those 49 unique texts appears as one node within the network diagram (in blue), just as every 
-English printer is represented by a single node (in black). In addition, both printers’ names and the titles of 
-books have been sized relative to their frequency in the network. So, for example, in the interactive visualization
-below, you can see that Richard Banckes’s very popular herbal (represented in this figure as 
-_A boke of the properties of herbes the which is called an herbal_) and the medical recipe collection 
-_Treasure of pore men_ were central to the economy of practical knowledge exchange in sixteenth-century England, 
-given that their titles appear larger than others in the network. But, Richard Banckes’s name is small in this 
-network, because he only produced just four editions of practical books. 
+
 <br>
 <br>
-In addition to the relative sizes of nodes within the diagram, lines connecting printers and 
-book titles represent a single edition of that book. For example, at the bottom left of the network 
-diagram, the two lines connecting Reynolde Wolde to _The urinal of phyisick_
-indicate that Wolfe printed two editions of the text over the course of his career. 
-Really popular titles like _This is the myrour or glasse of helth_ have multiple lines
-connecting the title to multiple printers, indicating that the work went through several
-editions from multiple printing houses. The title _This is the myrour or glasse of helth_ is
-larger than that of _This lytell boke contaynethe certayne gostly medycynes_ because it was 
-issued more than a dozen times before 1550, whereas _This lytell boke_ was issued only once.
-<br>
-<br>
-You can explore the network analysis by clicking on individual nodes or edges, or even rearranging the nodes in the network to get a better sense of how 
-London printers competed over the same practical texts. Use two fingers to zoom in and out (you'll zoom in
-wherever the mouse cursor is located in the network) and click and drag individual dones to move them in the network.
-<br>
-<br>
+
 <hr>
 | Appendix A | Appendix B | Appendix C |
 | :---- | :----: | ---: |
