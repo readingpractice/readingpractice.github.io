@@ -297,6 +297,9 @@ a.dropwdown-nav-item:focus {
   
   a {
   text-decoration: none;
+  &:hover, &:active {
+    color: $tan;
+  }
   }
   
   @include mobile {
