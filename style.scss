@@ -232,6 +232,7 @@ img {
   
   @include mobile {
   min-width: 120px;
+  background-color: $black;
   margin: 0px 0px 0px -30px;
   padding: 8px 12px;
   }
